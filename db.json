@@ -261,64 +261,6 @@
                 "side dish",
                 "vegan"
             ]
-        },
-        {
-            "id": 9,
-            "name": "Mashed Potatoes",
-            "level": "Easy",
-            "time": "35 min",
-            "yield": "6 - 8 servings",
-            "special_equipment": null,
-            "ingredients": [
-                "4 pounds golden creamer potatoes, peeled and cut into quarters",
-                "1 bay leaf",
-                "Kosher salt and freshly ground black pepper",
-                "2 cups heavy cream",
-                "3 tablespoons unsalted butter",
-                "2 tablespoons chopped chives"
-            ],
-            "directions": [
-                "Put the potatoes into a large pot, add the bay leaf, 2 tablespoons salt, and cover with cold water. ",
-                "Bring to a boil over medium-high heat and cook until the potatoes are tender, about 20 minutes. ",
-                "Drain them well and remove the bay leaf. ",
-                "Meanwhile, heat the cream and butter in a small saucepan. ",
-                "Put the potatoes through a ricer or food mill into a bowl. ",
-                "Add the hot cream and season with salt and pepper. ",
-                "Mix together with a spoon and add the chives."
-            ],
-            "categories": [
-                "side dish",
-                "non-vegan"
-            ]
-        },
-        {
-            "id": 10,
-            "name": "Wild Mushroom Gravy",
-            "level": "Easy",
-            "time": "35 min",
-            "yield": "8 servings",
-            "special_equipment": null,
-            "ingredients": [
-                "1 tbsp. olive oil",
-                "1/2 c. chopped onion",
-                "1 tsp. dried thyme",
-                "1/4 tsp. salt",
-                "8 oz. oyster mushrooms, sliced",
-                "1/4 c. dry sherry",
-                "3 c. mushroom stock or vegetable broth",
-                "1 1/2 tbsp. all-purpose flour",
-                "2 tbsp. water",
-                "2 tbsp. butter (or Earth Balance)",
-                "1/8 tsp. black pepper"
-            ],
-            "directions": [
-                "Heat oil in skillet over medium-high heat. Add onion and saute 1 minute. Add thyme, salt, and mushrooms and saute about 8 minutes, or until mushrooms are browned. Add sherry and cook until liquid evaporates. Stir in broth. Bring to a boil and cook until gravy is reduced to about 2 cups (about 14 minutes).",
-                "Whisk together flour and water in a small bowl. Add mixture to skillet; return to boil. Reduce heat to low and simmer until slightly thickened, about 2 minutes. Remove from heat; stir in butter 1 tablespoon at a time and pepper."
-            ],
-            "categories": [
-                "side dish",
-                "vegan"
-            ]
         }
     ]
 }
